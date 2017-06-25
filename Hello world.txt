@@ -1,5 +1,0 @@
-println("Hello world");
-println("Hello everybody");
-println("Hello everybody1");
-println("Hello everybody1");
-println("Hello everybody1");
